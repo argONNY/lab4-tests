@@ -1,0 +1,4 @@
+[
+  {"id": "5", "amount": 49.50, "category": "sales", "date": "2026-10-02"},
+  {"id": "6", "amount": "oops", "category": "sales", "date": "2026-10-02"}
+]
